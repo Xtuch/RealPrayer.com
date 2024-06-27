@@ -2,8 +2,9 @@ Ok, so for any reason you need to push directly from the terminal anytime you ma
 
 directory of this proyect: C: /Users/.../Web Pages/RealPrayer.com
 
-this  is the text:
+this are the commands:
 
+C:(From your clone directory) git init //You only need to turn on git the first time you commit
 C:(From your clone directory) git add . //add all
 C:(From your clone directory) git commit -m (message (no spaces, preferably cammel case)) commit message
 C:(From your clone directory) git push origin main //pushes the commit on the main branch (this is the case for this website but could vary)
